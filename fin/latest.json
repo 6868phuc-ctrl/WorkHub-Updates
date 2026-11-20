@@ -1,11 +1,11 @@
 {
-  "version": "v0.3.3",
-  "notes": "Bản bảo trì kênh cập nhật, không đổi chức năng.\nTự cập nhật nay đọc thẳng bản phát hành trên GitHub (kho công khai chỉ chứa bộ cài). Các bản cài trước đó vẫn được dẫn tới bản này.\nLưu ý: chưa được kiểm tay trong app đã cài.",
-  "pub_date": "2026-11-20T00:54:41Z",
+  "version": "v0.3.4",
+  "notes": "Bản thử kênh tự cập nhật: không đổi chức năng so với 0.3.3.\n\n- Dùng để kiểm tra app 0.3.3 tự thấy bản mới, tải và cài qua menu tài khoản > Kiểm tra cập nhật (hoặc hộp hỏi tự hiện 3 giây sau khi mở app).\n- Hướng dẫn sử dụng nâng số phiên bản lên 0.3.4.",
+  "pub_date": "2026-11-20T02:47:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnE0Z3VMMkQ3cVJRamY1cTBxNXBHcTVuUnoybEJZbk9tTGdqM0oydTU5RFNoanNPMW83WWtOUFJEL0J5cTdqaWdQWlRlUXVaT1V4cW5sWWFGc0VON3U3dGhxMzkwTGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM1NzE3CWZpbGU6V29ya0h1Yi1GaW5fMC4zLjNfeDY0LXNldHVwLmV4ZQprbHhKelpNVHM3NlZIeDNpSWZsclZUTXJET1RLRkttQnlwR3dRam1aUk1VVEdUZEpNTVZXSE9pdFNVeDhmdjMwOHBQYmRuMHVuUWgwbWNseDFCMWhDQT09Cg==",
-      "url": "https://github.com/6868phuc-ctrl/WorkHub-Setup/releases/download/fin/WorkHub-Fin_0.3.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnE0Z3VMMkQ3cVNyUVE2UjBvODZNaXpXcTBmOEpqQldJaUN5ekloZ3hJRVVzdGk0Y2tUWlZ3b0RQb1dDRXVGelM0Rjlmd1E1MnRmNk1pd0dPOTF3c0lXMFFNcDhHOXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQyNTM0CWZpbGU6V29ya0h1Yi1GaW5fMC4zLjRfeDY0LXNldHVwLmV4ZQp3N2VMZVhjcU1WVTB6cldDVEhPMmxsQnJsM1JXVWJwbzg0SWhwUUZPTk5BYjFyQ3E2elUvSzZJcUdmNXloN0lHM0dBazlUekRtdzl2S3lrVEhvbDdEUT09Cg==",
+      "url": "https://github.com/6868phuc-ctrl/WorkHub-Setup/releases/download/fin/WorkHub-Fin_0.3.4_x64-setup.exe"
     }
   }
 }
