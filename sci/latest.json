@@ -1,11 +1,11 @@
 {
-  "version": "v0.6.2",
-  "notes": "Bản bảo trì kênh cập nhật, không đổi chức năng.\nTự cập nhật nay đọc thẳng bản phát hành trên GitHub (kho công khai chỉ chứa bộ cài). Các bản cài trước đó vẫn được dẫn tới bản này.\nLưu ý: chưa được kiểm tay trong app đã cài.",
-  "pub_date": "2026-11-20T00:55:09Z",
+  "version": "v0.6.3",
+  "notes": "Bản thử kênh tự cập nhật: không đổi chức năng so với 0.6.2.\n\n- Dùng để kiểm tra app 0.6.2 tự thấy bản mới, tải và cài qua menu tài khoản > Kiểm tra cập nhật (hoặc hộp hỏi tự hiện 3 giây sau khi mở app).",
+  "pub_date": "2026-11-20T02:46:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnE0Z3VMMkQ3cWFJQ1FhNHdXN2JWQlhsQTd0YndaTndXYXZ3Tm5IMW9FeGdjbjVsaUpJOXJ4Z1FnMElSTzkyUU9pd2xPaWFXNDhvcUduQVk3Nk0wdEthMmh2Nlh2Y1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM1ODA0CWZpbGU6V29ya0h1Yi1TY2lfMC42LjJfeDY0LXNldHVwLmV4ZQpxUmdGamFvMXpORlBxWCs1d1JoUFc2UkFMYVJMeEg5N2RSVlhMajJkdVEvUUNIWDU5ekJEL1d0YTIrckxqbHRjemg2aitQMm85S1cxbXMzUjQ0WjFCUT09Cg==",
-      "url": "https://github.com/6868phuc-ctrl/WorkHub-Setup/releases/download/sci/WorkHub-Sci_0.6.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnE0Z3VMMkQ3cVZ6dlRSd09KTXpDU0xsMWF3Z29LWVVkNE5BLzViMjBVdmhIQ2Y5WkQrdG81YjdsMFNiRmRhajhOVHRCVDI3M29ZeHlaSDBSQWxYRWFiNEpmdkF6MEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQyNjI4CWZpbGU6V29ya0h1Yi1TY2lfMC42LjNfeDY0LXNldHVwLmV4ZQpvcGdrdW5xT0dyMk9xeG50R20ya1VPZHE5VkJvMG5ZVzk1dHNkMzdQZE5OYi94OWZLanljSTBVaFB6Qlg3NWE0U0g4cWdtSTczKzVnUnhLcDBRaVRCdz09Cg==",
+      "url": "https://github.com/6868phuc-ctrl/WorkHub-Setup/releases/download/sci/WorkHub-Sci_0.6.3_x64-setup.exe"
     }
   }
 }
