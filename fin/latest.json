@@ -1,11 +1,11 @@
 {
-  "version": "v0.3.2",
-  "notes": "Bản vá nhỏ.\nSửa thông báo hạn chót của Windows: việc có hạn hôm nay trước đây bị báo \"Công việc quá hạn\" ngay từ 0 giờ sáng. Nay việc hạn hôm nay hoặc ngày mai được nhắc \"Sắp đến hạn\", chỉ khi ngày hạn đã qua mới báo quá hạn (cùng luật với nhãn trên giao diện).\nHướng dẫn sử dụng có thêm mục 24 \"Phần dùng chung\": dự án, công việc (thêm nhanh, phím tắt, tự động hoá, biểu mẫu), mục tiêu, lịch, tệp, trò chuyện, thông báo, Không Gian Riêng, thùng rác, làm việc khi mất mạng, quyền trong nhóm. Mục lục bổ sung đủ các mục 21-24. Quản gia trả lời được các câu hỏi về phần này.\nLưu ý: chưa được kiểm tay trong app đã cài.",
-  "pub_date": "2026-11-20T00:31:24Z",
+  "version": "v0.3.3",
+  "notes": "Bản bảo trì kênh cập nhật, không đổi chức năng.\nTự cập nhật nay đọc thẳng bản phát hành trên GitHub (kho công khai chỉ chứa bộ cài). Các bản cài trước đó vẫn được dẫn tới bản này.\nLưu ý: chưa được kiểm tay trong app đã cài.",
+  "pub_date": "2026-11-20T00:54:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnE0Z3VMMkQ3cVVYSHYvM1crdDVISFFmanJ5Ny9EbUJWVHRvZlpNY0VBcDhvL0VJOER0VnE2a1dzMXRZNnFhcVpBekh4MUlMWEJRK0VRbFJBdGk2R2o3bEJUZEpIYUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTMzNzQ5CWZpbGU6V29ya0h1Yi1GaW5fMC4zLjJfeDY0LXNldHVwLmV4ZQowR0VHa1VNRjczRFZCNWFVNkZDWU1aR0V0MFpuYVZiMXRqaU1DbWhhMUZDNXdwcjUxRWRQZzFrdy9WZUo1c3h5Q1QrL2luTkMvWWFVVDVBd20xa05BUT09Cg==",
-      "url": "https://github.com/6868phuc-ctrl/WorkHub-Setup/releases/download/fin/WorkHub-Fin_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnE0Z3VMMkQ3cVJRamY1cTBxNXBHcTVuUnoybEJZbk9tTGdqM0oydTU5RFNoanNPMW83WWtOUFJEL0J5cTdqaWdQWlRlUXVaT1V4cW5sWWFGc0VON3U3dGhxMzkwTGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM1NzE3CWZpbGU6V29ya0h1Yi1GaW5fMC4zLjNfeDY0LXNldHVwLmV4ZQprbHhKelpNVHM3NlZIeDNpSWZsclZUTXJET1RLRkttQnlwR3dRam1aUk1VVEdUZEpNTVZXSE9pdFNVeDhmdjMwOHBQYmRuMHVuUWgwbWNseDFCMWhDQT09Cg==",
+      "url": "https://github.com/6868phuc-ctrl/WorkHub-Setup/releases/download/fin/WorkHub-Fin_0.3.3_x64-setup.exe"
     }
   }
 }
