@@ -1,11 +1,11 @@
 {
-  "version": "v0.7.3",
-  "notes": "Bản thử kênh tự cập nhật: không đổi chức năng so với 0.7.2.\n\n- Dùng để kiểm tra app 0.7.2 tự thấy bản mới, tải và cài qua menu tài khoản > Kiểm tra cập nhật (hoặc hộp hỏi tự hiện 3 giây sau khi mở app).",
-  "pub_date": "2026-11-20T02:47:06Z",
+  "version": "v0.7.4",
+  "notes": "Bản tối ưu trước khi đưa vào dùng: không đổi chức năng so với 0.7.3.\n\n- Máy chủ nhanh hơn: các quy tắc phân quyền của bình luận, theo dõi việc, ghi giờ, mẫu kế hoạch và thông báo đã đọc chỉ tính một lần mỗi truy vấn thay vì từng dòng; thêm chỉ mục cho các bảng liên kết cha - con.\n- Bộ cài nhẹ hơn: ảnh nền Lounge 1,5 MB còn 152 KB, logo 254 KB còn 30 KB; không còn đóng gói tệp SQL, sổ tay vận hành và tài liệu nội bộ vào app.\n- Gỡ mã máy chủ Python cũ của Ciel (Ciel đã chạy trên Supabase từ 0.6.0) và mã giao diện không còn dùng.",
+  "pub_date": "2026-11-23T01:46:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnE0Z3VMMkQ3cVZZQkhjTGZWNno5S3pCSk84MVB6NDY0WFhKK013eTN2enhZb1FNaGtOOVZla3J5eUljaWpBS2R2K3JMYThoNStETzE5dDQzRk1vZ2laV0hrM21aUUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQyNzMzCWZpbGU6V29ya0h1Yi1PUkdfMC43LjNfeDY0LXNldHVwLmV4ZQp1ck13OEo5K28wSlorcm9KeThxNTQwTU40cENoZkdMZ0laQkJ1OWJRcWJJVm4waHJBZDU5MUtNcm9seHd2aGVYeDdjSmM0L3Y1M2tSaVpvV3ZGYXJCdz09Cg==",
-      "url": "https://github.com/6868phuc-ctrl/WorkHub-Setup/releases/download/org/WorkHub-ORG_0.7.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnE0Z3VMMkQ3cWRLbXJKUTdCUVhjaC9Xbi84Z1htNis4a3BiNHNBZkJPbGdXY2dTY1BJbmRWMzhJUnh2TEtKOENzMFhYREVycmkvd0ZXS1pabzZuT2g4RU1UZGZ4ZHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk4MjMwCWZpbGU6V29ya0h1Yi1PUkdfMC43LjRfeDY0LXNldHVwLmV4ZQpxMjdKUTBYanJzOEY3ZE4vRlZyWTlYcm1LU2wyRHB3K3VJUVMzS1Rpb3lJcHFQRkN6WnRCQmhzS3hxV1JlOHhld3NrSnpVTHh3Ump1OXc2d2dTTFBEZz09Cg==",
+      "url": "https://github.com/6868phuc-ctrl/WorkHub-Setup/releases/download/org/WorkHub-ORG_0.7.4_x64-setup.exe"
     }
   }
 }
